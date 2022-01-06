@@ -1,0 +1,4 @@
+Copy cipher into BinaryToTik.
+Enter result into https://codebeautify.org/binary-string-converter
+open the url and downalod zip.
+solve the riddle with sat solver or by hand
